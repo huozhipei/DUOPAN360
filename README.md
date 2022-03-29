@@ -34,12 +34,16 @@
 
 商城截图
 -----------------
+##### 首页
 ![avatar](/image/1.png)
+##### 商品详情页
 ![avatar](/image/2.png)
-![avatar](/image/3.png)
+##### 购物车页
 ![avatar](/image/4.png)
 
 
+商城演示地址
+-----------------
+#### [商店地址：](https://duopan360.com)
 
-演示地址：https://duopan360.com</br>
 
