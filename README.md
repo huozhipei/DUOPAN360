@@ -2,7 +2,7 @@
 
 商城介绍
 -----------------
-一套基于 wordpress + woocommerce 的外贸商城主题<br/>
+**一套基于 wordpress + woocommerce 的外贸商城主题**<br/>
 
 UI界面 简约漂亮不简单、PC端/移动端自适应、拥有完整的订单流程、可以立刻投入使用<br/>
 
