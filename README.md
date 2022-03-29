@@ -34,12 +34,7 @@
 
 商城截图
 -----------------
-##### 首页
-![avatar](/image/1.png)
-##### 商品详情页
-![avatar](/image/2.png)
-##### 购物车页
-![avatar](/image/4.png)
+![首页](/image/1.png) ![商品详情页](/image/2.png) ![购物车](/image/4.png)
 
 
 商城演示地址
